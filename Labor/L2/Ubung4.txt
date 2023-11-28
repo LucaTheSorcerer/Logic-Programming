@@ -1,0 +1,30 @@
+1. Atome: loves(Vincent, mia)
+Funktor: loves
+Stelligkeit (Anzahl der Argumente): 2 (Vincent, mia)
+
+2. Dies ist keine Aussage in der Prädikatenlogik, sondern ein String (Zeichenkette), der das Atom loves(Vincent, mia) als Text darstellt.
+
+3. Atom: boxer(Butch)
+Funktor: boxer
+Stelligkeit: 1 (Butch)
+
+4. Dies ist eine Aussage, die das Atom boxer(Butch) in anderer Reihenfolge darstellt.
+
+5. Atom: and(big(burger), kahuna(burger))
+Funktor: and
+Stelligkeit: 2 (big(burger), kahuna(burger))
+
+6. Atom: and(big(X), kahuna(X))
+Funktor: and
+Stelligkeit: 2 (big(X), kahuna(X)) - Beachten Sie, dass 'X' hier als Variable dient.
+
+7. Dies ist kein gültiges Prädikatenlogik-Atom, da der Variablenname nicht mit einem Funktor verbunden ist.
+
+8. Atom: (Butch kills Vincent)
+Es gibt keine expliziten Funktoren oder klaren Stelligkeiten in dieser Aussage. Es könnte versucht werden, als eine Art Beschreibung oder Satz zu interpretieren, aber in der Prädikatenlogik fehlen klare Prädikate oder Relationen.
+
+9. Dies ist auch keine gültige Prädikatenlogik-Darstellung, da die Argumente nicht durch einen Funktor verbunden sind.
+
+10. Atom: kills(Butch, Vincent)
+Funktor: kills
+Stelligkeit: 2 (Butch, Vincent)

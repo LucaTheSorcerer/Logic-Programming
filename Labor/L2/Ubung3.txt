@@ -1,0 +1,10 @@
+1. vINCENT = Atom -> es beginnt mit Kleinbuchstabe
+2. Footmassage = Variable -> es beginnt mit Grossbuchstabe
+3. variable23 = Atom -> es beginnt mit Kleinbuchstabe
+4. Variable2000 = Variable -> es beginnt mit Grossbuchstabe
+5. big_kahuna_burger = Atom -> es beginnt mit Kleinbuchstabe
+6. ’big kahuna burger’ = Atom -> es beginnt mit Anfuhrungszeichen
+7. big kahuna burger = Fehler -> Leerzeichen sind nicht erlaubt
+8. ’Jules’ = Atom -> es beginnt mit Anfuhrungszeichen
+9. _Jules = anonyme Variable -> es beginnt mit Unterstrich
+10. '_Jules' = Atom -> es beginnt mit Anfuhrungszeichen

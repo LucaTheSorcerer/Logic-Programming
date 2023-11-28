@@ -1,0 +1,2 @@
+%Allerdings gibt es ein Problem mit dieser Definition, und zwar das Problem der "unendlichen Schleife" (infinite loop) oder "Rekursion ohne Basisfall". 
+%Da es keine Basisfallregel gibt, die die Rekursion stoppt, wird diese Definition in einer unendlichen Schleife enden, wenn sie versucht, die Vorfahren zu berechnen.

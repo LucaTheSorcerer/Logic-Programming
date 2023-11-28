@@ -1,0 +1,7 @@
+1. woman(vincent). = Fakt
+2. woman(mia). = Fakt
+3. man(jules). = Fakt
+4. person(X) :- man(X); woman(X). = Regel, mit Regelkopf = person(X) und Regelkorper = man(X); woman(X)
+5. loves(X,Y):- father(X,Y). = Regel mit Regelkopf = loves(X,Y) und Regelkorper = father(X,Y)
+6. father(Y,Z):- man(Y), son(Z,Y). = Regel mit Regelkopf = father(Y,Z) und Regelkorper = man(Y), son(Z,Y)
+7. father(Y,Z):- man(Y), daughter(Z,Y). = Regel mit Regelkopf = father(Y,Z) und Regelkorper = man(Y), daughter(Z,Y)
